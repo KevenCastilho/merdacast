@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<PodcastGenerator>
+		<episode>
+		<titlePG><![CDATA[Loading Screen HD with Sound[1]]]></titlePG>
+		<shortdescPG><![CDATA[Podcast Episode]]></shortdescPG>
+		<longdescPG><![CDATA[]]></longdescPG>
+		<imgPG></imgPG>
+		<categoriesPG>
+		<category1PG></category1PG>
+		<category2PG></category2PG>
+		<category3PG></category3PG>
+		</categoriesPG>
+		<keywordsPG><![CDATA[]]></keywordsPG>
+		<explicitPG></explicitPG>
+		<authorPG>
+		<namePG></namePG>
+		<emailPG></emailPG>
+		</authorPG>
+			<fileInfoPG>
+			<size>6.4</size>
+			<duration>0:14</duration>
+			<bitrate>3752</bitrate>
+			<frequency>44100</frequency>
+			</fileInfoPG>
+		</episode>
+	</PodcastGenerator>

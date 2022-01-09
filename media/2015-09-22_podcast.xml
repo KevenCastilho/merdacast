@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<PodcastGenerator>
+		<episode>
+		<titlePG><![CDATA[Piadas Toscas no Skype]]></titlePG>
+		<shortdescPG><![CDATA[brincando de inventar piadas no skype]]></shortdescPG>
+		<longdescPG><![CDATA[&lt;p&gt;Brincando de inventar piadas toscas via skype , eu e mekinino acabamos tropecando em um talento que não sabiamos que tinhamos , esse podcast é só uma viagem nossa em piadas.&lt;/p&gt;]]></longdescPG>
+		<imgPG></imgPG>
+		<categoriesPG>
+		<category1PG></category1PG>
+		<category2PG></category2PG>
+		<category3PG></category3PG>
+		</categoriesPG>
+		<keywordsPG><![CDATA[]]></keywordsPG>
+		<explicitPG>no</explicitPG>
+		<authorPG>
+		<namePG>Deal_iT</namePG>
+		<emailPG>deal_it@outlook.com</emailPG>
+		</authorPG>
+			<fileInfoPG>
+			<size>16.93</size>
+			<duration>9:15</duration>
+			<bitrate>256</bitrate>
+			<frequency>44100</frequency>
+			</fileInfoPG>
+		</episode>
+	</PodcastGenerator>

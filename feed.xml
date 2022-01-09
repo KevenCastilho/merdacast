@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!-- generator="Podcast Generator 2.5" -->
+	<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>MerdaCast</title>
+		<link>http://merdacast.cuccfree.com/</link>
+		<atom:link href="http://merdacast.cuccfree.com/feed.xml" rel="self" type="application/rss+xml" />
+		<description>A little description of your podcast.</description>
+		<generator>Podcast Generator 2.5 - http://podcastgen.sourceforge.net</generator>
+		<lastBuildDate>Tue, 28 Jul 2020 07:40:08 -0400</lastBuildDate>
+		<language>en</language>
+		<copyright>MerdaCast Copyright  ©  2015</copyright>
+		<itunes:image href="http://merdacast.cuccfree.com/images/itunes_image.jpg" />
+		<image>
+		<url>http://merdacast.cuccfree.com/images/itunes_image.jpg</url>
+		<title>MerdaCast</title>
+		<link>http://merdacast.cuccfree.com/</link>
+		</image>
+		<itunes:summary>A little description of your podcast.</itunes:summary>
+		<itunes:subtitle>as maiores merdas da internet</itunes:subtitle>
+		<itunes:author>Deal_iT</itunes:author>
+		<itunes:owner>
+		<itunes:name>Deal_iT</itunes:name>
+		<itunes:email>deal_it@outlook.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>no</itunes:explicit>
+		
+		<itunes:category text="Arts"></itunes:category>
+		
+				<item>
+				<title>Loading Screen HD with Sound[1]</title>
+				<itunes:subtitle>Podcast Episode</itunes:subtitle>
+				<itunes:summary></itunes:summary>
+				<description>Podcast Episode</description>
+				<link>http://merdacast.cuccfree.com/?name=2015-09-22_loading_screen_hd_with_sound1.mp4</link>
+				<enclosure url="http://merdacast.cuccfree.com/media/2015-09-22_loading_screen_hd_with_sound1.mp4" length="6708025" type="video/mp4"/>
+				<guid>http://merdacast.cuccfree.com/?name=2015-09-22_loading_screen_hd_with_sound1.mp4</guid>
+				<itunes:duration>0:14</itunes:duration>
+				<author>deal_it@outlook.com (Deal_iT)</author>
+				<itunes:author>Deal_iT</itunes:author>
+				<itunes:explicit></itunes:explicit>
+				<pubDate>Tue, 22 Sep 2015 17:08:09 -0400</pubDate>
+				</item>
+				
+				<item>
+				<title>Piadas Toscas no Skype</title>
+				<itunes:subtitle>brincando de inventar piadas no skype</itunes:subtitle>
+				<itunes:summary>Brincando de inventar piadas toscas via skype , eu e mekinino acabamos tropecando em um talento que não sabiamos que tinhamos , esse podcast é só uma viagem nossa em piadas.</itunes:summary>
+				<description>brincando de inventar piadas no skype</description>
+				<link>http://merdacast.cuccfree.com/?name=2015-09-22_podcast.mp3</link>
+				<enclosure url="http://merdacast.cuccfree.com/media/2015-09-22_podcast.mp3" length="17748355" type="audio/mpeg"/>
+				<guid>http://merdacast.cuccfree.com/?name=2015-09-22_podcast.mp3</guid>
+				<itunes:duration>9:15</itunes:duration>
+				<author>deal_it@outlook.com (Deal_iT)</author>
+				<itunes:author>Deal_iT</itunes:author>
+				<itunes:explicit>no</itunes:explicit>
+				<pubDate>Tue, 22 Sep 2015 11:30:00 -0400</pubDate>
+				</item>
+				
+	</channel>
+	</rss>

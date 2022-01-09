@@ -1,0 +1,18 @@
+<p class="nav-header">Redes Sociais</p>
+<div id="fb-root"> </div>
+<script>// <![CDATA[
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.4&appId=575043549301197";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+// ]]></script>
+<div class="fb-like"> </div>
+<script src="https://apis.google.com/js/platform.js"></script>
+<div class="g-ytsubscribe" data-channelid="UCj12JYi5Xw2pLYxCl1ybJJA" data-layout="default" data-count="default"> </div>
+<p><a class="twitter-share-button" href="https://twitter.com/share" data-via="TheMekiGamer" data-hashtags="MerdaCast">Tweet</a></p>
+<script>// <![CDATA[
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+// ]]></script>
